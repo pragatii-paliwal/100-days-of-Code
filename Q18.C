@@ -11,7 +11,7 @@ int main() {
     scanf("%d", &percentage);
 
     if (percentage >= 90){
-    printf("Grade A")
+    printf("Grade A");
     }
     else if (percentage >= 80){
     printf("Grade B");
